@@ -5,7 +5,7 @@
 ## objectives
 
 -	introduce an optimized graph deep learning architecture for predicting demand for Citi bike sharing
--	 include weather data in the model for better accuracy accuracy in predicting demand 
+-	 include weather data in the model for better accuracy in predicting demand 
 
 ## Overview
 at first stage we used the Deep Learning Framework for Traffic Forecasting which is introduced by Bing Yu et al at, for each station due to the limitation of access of capacity of stations we consider inbound and outbound of each station in 30 minutes time step
@@ -15,12 +15,20 @@ Live feed station data and trip history is available through [CitiBike’s open 
 
 
 ## Exploratory_data_analysis
-- EDA1--1st part
-- EDA2--2nd part
+- EDA1-- 2019 dataset
+- EDA2023-1-- 2023 dataset part 1
+- EDA2023-2-- 2023 dataset part 2
+- ridership-- 2023dataset
 
-## NOTCE
 
-- Process_data file will be added to the repository as the objectives project reaches the conclusion .
+## NOTiCE
+
+- Process_data file will be added to the repository as the objectives project reaches the conclusion. which is included of 
+  1 - distance.ipynb
+  2 - inbound and outbound.ipynb
+  3 - Graphhoper.ipynb
+  4 - preprocess.ipynb
+  
 - new alogorthms which is writing in A Spatial-Temporal Graph Attentional Long Short-Term Memory (STGA-LSTM) neural network framework to predict short-run bike-sharing demand at a station level using multi-source data sets will be added to the repository as the objectives project reaches the conclusion
 
 
