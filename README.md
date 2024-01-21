@@ -21,9 +21,9 @@ Live feed station data and trip history is available through [CitiBike’s open 
 - ridership-- 2023dataset
 
 
-## NOTiCE
-
-- notebooks file will be added to the repository as the objectives project reaches the conclusion. which is included of 
+## NOTICE
+- this project is under progress there will be multiple update in coming days 
+- notebooks files will be added to the repository as the objectives project reaches the conclusion. which is included of 
   - distance.ipynb
   - inbound and outbound.ipynb
   - Graphhoper.ipynb
