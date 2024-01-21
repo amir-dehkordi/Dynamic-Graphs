@@ -29,7 +29,7 @@ Live feed station data and trip history is available through [CitiBike’s open 
   - Graphhoper.ipynb
   - preprocess.ipynb
   
-- new alogorthms which is writing in A Spatial-Temporal Graph Attentional Long Short-Term Memory (STGA-LSTM) neural network framework to predict short-run bike-sharing demand at a station level using multi-source data sets will be added to the repository as the objectives project reaches the conclusion
+- new alogorthms which is writing in A Spatial-Temporal Graph Attentional Long Short-Term Memory (STGA-LSTM) neural network framework to predict short-run bike-sharing demand at a station level using multi-source data sets will be added to the repository as the objectives of this project reaches the conclusion
 
 
 
