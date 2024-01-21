@@ -2,7 +2,7 @@
 
 **Author**: Amir Mohammad B.Dehkordi
 
-## objective
+## objectives
 
 -	introduce an optimized graph deep learning architecture for predicting demand for Citi bike sharing
 -	 include weather data in the model for better accuracy accuracy in predicting demand 
