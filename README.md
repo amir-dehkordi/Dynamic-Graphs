@@ -15,8 +15,8 @@ Live feed station data and trip history is available through [CitiBike’s open 
 
 
 ## Exploratory_data_analysis
-eda1--1st part
-eda2--second part
+- eda1--1st part
+- eda2--second part
 
 ## NOTCE
 
