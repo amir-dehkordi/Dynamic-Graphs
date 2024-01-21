@@ -23,7 +23,7 @@ Live feed station data and trip history is available through [CitiBike’s open 
 
 ## NOTiCE
 
-- Process_data file will be added to the repository as the objectives project reaches the conclusion. which is included of 
+- notebooks file will be added to the repository as the objectives project reaches the conclusion. which is included of 
   - distance.ipynb
   - inbound and outbound.ipynb
   - Graphhoper.ipynb
