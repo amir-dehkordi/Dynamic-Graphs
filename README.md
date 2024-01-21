@@ -24,10 +24,10 @@ Live feed station data and trip history is available through [CitiBike’s open 
 ## NOTiCE
 
 - Process_data file will be added to the repository as the objectives project reaches the conclusion. which is included of 
-  1 - distance.ipynb
-  2 - inbound and outbound.ipynb
-  3 - Graphhoper.ipynb
-  4 - preprocess.ipynb
+  - distance.ipynb
+  - inbound and outbound.ipynb
+  - Graphhoper.ipynb
+  - preprocess.ipynb
   
 - new alogorthms which is writing in A Spatial-Temporal Graph Attentional Long Short-Term Memory (STGA-LSTM) neural network framework to predict short-run bike-sharing demand at a station level using multi-source data sets will be added to the repository as the objectives project reaches the conclusion
 
